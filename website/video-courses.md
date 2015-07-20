@@ -25,3 +25,13 @@ Udemy - PLSQL by Example
 ### infiniteskills:
 
 Learning Oracle PL/SQL
+
+
+
+<br/><br/>
+
+<div style="padding:10px; border:thin solid black;" align="center">
+
+  <h3>May be you could recommend good video courses for study Oracle PL/SQL?</h3>
+
+</div>
