@@ -4,60 +4,21 @@ title: PL/SQL
 permalink: /
 ---
 
-  <div class="container">
+<h2>Hello, PL/SQL Developer!</h2>
 
+We are software developer from Russia.
 
-	<h1><a href="http://plsql.info/">PL/SQL</a></h1>
+Our main website on russian language is <a href="http://plsql.ru/">PLSQL.RU</a>
 
-<br/><br/>
-<div align="center">
-  <h1>PLSQL.INFO</h1>
+The website administrator want to find interesting examples on PL/SQL and share it on this website.
 
- <br/>
- <br/>
+This website use Jekyll technologies. Than mean what all source codes are stored in repository on github.
+You could download and run source codes on you local mashine. (If it would be interesting to someone, i will write instruction.)
 
-  <h2>Hello! We are software developers team (not a firm)!</h2>
-
-<br/><br/>
+I hope you will agree to share your knowledge or materials on this website would be helpful for you.
 
 
 
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="http://www.linkedin.com/pub/andrey-rodin/58/924/860" data-format="inline" data-related="false"></script>
-
-
-</div>
-
-
-<br/><br/>
-
-We develop oracle databases with business logic on Oracle PL/SQL language.
-
- <br/>
- <br/>
-
-If your project needs developers, who can develop business logic on java and / or  pl/sql or dba's who can work with oracle databaes, weblogic servers and Oracle linux / RedHat servers, may be one of us can help to you.
-
-<br/>
-<br/>
-
-Some developers from us have more then 5 years experiense with PL/SQL and some have experiense more then 5 years with oracle databases as DBA.
-
-<br/>
-<br/>
-
-We are russians and have no any visa et, but we can develop business logic remotely. <br/>
-You can grant access to us in your internal network by VPN, or you can send database dump and technical document. (That is simple)
-
-<br/>
-<br/>
-
-
-
-If you'll want to suggest us to business trip, you should help us with visa.
-
-<br/>
-<br/>
 
 <div align="right">
 Feedback: <br/><img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley" border="0"/>
@@ -65,35 +26,11 @@ Feedback: <br/><img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley
 
 <div align="center">
 
-<br/>
-<br/>
-
- Our main website on russian is
-    <a href="http://plsql.ru/">PLSQL.RU</a>
-
 
 <br/>
 <br/>
 
 Sorry for my terrible english.<br/>
-My native language is PL/SQL<br/>
-Thank you!
+My native language is C++
 
-</div>
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-tags:
-<a href="http://PLSQL.INFO/">developers</a> ||
-<a href="http://PLSQL.INFO/">oracle</a> ||
-<a href="http://PLSQL.INFO/">sql</a> ||
-<a href="http://PLSQL.INFO/">pl/sql</a>
 </div>
