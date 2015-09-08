@@ -36,3 +36,18 @@ permalink: /sitemap/
     <li><a href="/youtube/oracle-base/efficient-function-calls-from-sql/">Efficient Function Calls From SQL</a></li>
     <li><a href="/youtube/oracle-base/sql-for-beginners/">SQL for Beginners</a></li>
 </ul>
+
+
+
+<br/>
+
+### PL/SQL BASICS
+
+
+<ul>
+    <li><a href="/basics/procedures/">Procedures</a></li>
+    <li><a href="/basics/functions/">Functions</a></li>
+    <li><a href="/basics/packages/">Packages</a></li> 
+
+
+</ul>
