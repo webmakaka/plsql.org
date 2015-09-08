@@ -10,7 +10,7 @@ permalink: /sitemap/
 
 
 
-### materials for study PL/SQL
+### Materials for study PL/SQL
 
 <ul>
     <li><a href="/library/">Library</a></li>

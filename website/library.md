@@ -9,7 +9,7 @@ permalink: /library/
 
 <br/><br/>
 
-<h3>Oracle PL/SQL Programming by Steven Feuerstein</h3>
+### Oracle PL/SQL Programming by Steven Feuerstein
 
 
 <br/><br/>
@@ -19,12 +19,10 @@ permalink: /library/
 </div>
 
 
+<br/><br/>
 
 
-<br/>
-
-<br/>
-<h3>SQL Cookbook by Anthony Molinaro</h3>
+### SQL Cookbook by Anthony Molinaro
 
 <br/><br/>
 

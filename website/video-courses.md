@@ -1,13 +1,16 @@
 ---
 layout: page
-title:  Vide Courses for PL/SQL Developer
+title:  Video Courses for PL/SQL Developer
 permalink: /video-courses/
 ---
+
+<br/>
 
 ### Video Courses
 
 You can buy it or try to find in the internet.
 
+<br/>
 
 ### Pluralsight:
 
@@ -18,14 +21,17 @@ Working with Collections in Oracle PL/SQL
 Optimizing SQL Queries in Oracle  
 Advanced SQL Queries in Oracle and SQL Server  
 
+<br/>
+
 ### Udemy:
 
 Udemy - PLSQL by Example
 
+<br/>
+
 ### infiniteskills:
 
 Learning Oracle PL/SQL
-
 
 
 <br/><br/>

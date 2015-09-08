@@ -4,7 +4,7 @@ title: PL/SQL
 permalink: /
 ---
 
-<h2>Hello, PL/SQL Developer!</h2>
+## Hello, PL/SQL Developer!
 
 We are software developer from Russia.
 
