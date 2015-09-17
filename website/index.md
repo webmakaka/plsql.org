@@ -4,10 +4,6 @@ title: PL/SQL
 permalink: /
 ---
 
-
-
-
-
 <div class="row-fluid">
   <div class="span12">
 
@@ -18,12 +14,20 @@ permalink: /
 
       We are software developer from Russia.
 
+      <br/><br/>
+
       Our main website on russian language is <a href="http://plsql.ru/">PLSQL.RU</a>
+
+      <br/><br/>
 
       The website administrator want to find interesting examples on PL/SQL and share it on this website.
 
+      <br/><br/>
+
       This website use Jekyll technologies. Than mean what all source codes are stored in repository on github.
       You could download and run source codes on you local mashine. (If it would be interesting to someone, i will write instruction.)
+
+      <br/><br/>
 
       I hope you will agree to share your knowledge or materials on this website would be helpful for you.
 
