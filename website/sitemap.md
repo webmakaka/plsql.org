@@ -45,11 +45,17 @@ permalink: /sitemap/
 <ul>
     <li><a href="/youtube/oracle-base/efficient-function-calls-from-sql/">Efficient Function Calls From SQL</a></li>
     <li><a href="/youtube/oracle-base/sql-for-beginners/">SQL for Beginners</a></li>
+    <li><a href="https://www.youtube.com/watch?t=629&v=m19nEEv083M">How to call oracle pl sql function from jsp</a></li>
 </ul>
 
 
 
 <br/>
+
+
+
+
+
 
 ### PL/SQL BASICS
 
