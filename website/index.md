@@ -8,11 +8,13 @@ permalink: /
 
 
 
-<div class="row">
-  <div class="span9">
-    ## Hi, PL/SQL Developer!
-    <div class="row">
-      <div class="span6">
+<div class="row-fluid">
+  <div class="span12">
+
+    <h1> Hi, PL/SQL Developer!</h1>
+
+    <div class="row-fluid">
+      <div class="span8">
 
       We are software developer from Russia.
 
@@ -26,7 +28,7 @@ permalink: /
       I hope you will agree to share your knowledge or materials on this website would be helpful for you.
 
       </div>
-      <div class="span3">
+      <div class="span4">
 
       <a class="twitter-timeline" href="https://twitter.com/hashtag/plsql" data-widget-id="644418846363910144">#plsql Tweets</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
