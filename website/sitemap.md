@@ -45,17 +45,12 @@ permalink: /sitemap/
 <ul>
     <li><a href="/youtube/oracle-base/efficient-function-calls-from-sql/">Efficient Function Calls From SQL</a></li>
     <li><a href="/youtube/oracle-base/sql-for-beginners/">SQL for Beginners</a></li>
-    <li><a href="https://www.youtube.com/watch?t=629&v=m19nEEv083M">How to call oracle pl sql function from jsp</a></li>
+    <li><a href="https://www.youtube.com/watch?t=629&v=m19nEEv083M" rel="nofollow">How to call oracle pl sql function from jsp</a></li>
 </ul>
 
 
 
 <br/>
-
-
-
-
-
 
 ### PL/SQL BASICS
 
@@ -64,6 +59,15 @@ permalink: /sitemap/
     <li><a href="/basics/procedures/">Procedures</a></li>
     <li><a href="/basics/functions/">Functions</a></li>
     <li><a href="/basics/packages/">Packages</a></li>
+</ul>
 
 
+
+<br/>
+
+### Some Articles
+
+
+<ul>
+    <li><a href="https://community.oracle.com/docs/DOC-915523" rel="nofollow">PL/SQL 101 : Cursors and SQL Projection</a></li>
 </ul>
