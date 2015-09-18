@@ -23,7 +23,7 @@ permalink: /sitemap/
 ### Oracle DataBase Installation
 
 <ul>
-    <li><a href="http://oracledba.net/docs/oracle-database/installation/oracle-database-installation/single-instance/simple/linux/6.7/oracle/12.1/">Oracle DataBase 12C Installation on Oracle Linux 6.X</a></li>
+    <li><a href="http://oracledba.net/database/installation/single-instance/simple/linux/6.7/oracle/12.1/">Oracle DataBase 12C Installation on Oracle Linux 6.X</a></li>
 
 </ul>
 
