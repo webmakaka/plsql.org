@@ -20,12 +20,21 @@ permalink: /sitemap/
 
 <br/>
 
-### Oracle DataBase Installation
+### Oracle DataBase and Client Installation
 
 <ul>
+    <li><a href="http://oracledba.net/database/installation/single-instance/simple/windows/2008/oracle/12.1/">Oracle DataBase 12C Installation on Windows 2008 Server</a></li>
     <li><a href="http://oracledba.net/database/installation/single-instance/simple/linux/6.7/oracle/12.1/">Oracle DataBase 12C Installation on Oracle Linux 6.X</a></li>
-
+    <li><a href="http://oracledba.net/client/installation/windows/7/oracle/12.1/"Oracle Client 12C (32 bit) Installation on Windows 7 (64 bit)</a> (Client needs for connection to remote host with Oracle DataBase by SQLPLUS, PL/SQL developer, TOAD, etc)</li>
 </ul>
+
+
+<br/>
+
+### Oracle PL/SQL Debugging
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">#363 <a href="https://twitter.com/hashtag/plsql?src=hash">#plsql</a> Don&#39;t write your own error logging utility. Use Logger! <a href="https://t.co/fDjIGQnwCq">https://t.co/fDjIGQnwCq</a></p>&mdash; Steven Feuerstein (@sfonplsql) <a href="https://twitter.com/sfonplsql/status/648520588768714752">September 28, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <br/>
@@ -46,6 +55,7 @@ permalink: /sitemap/
     <li><a href="/youtube/oracle-base/efficient-function-calls-from-sql/">Efficient Function Calls From SQL</a></li>
     <li><a href="/youtube/oracle-base/sql-for-beginners/">SQL for Beginners</a></li>
     <li><a href="https://www.youtube.com/watch?t=629&v=m19nEEv083M" rel="nofollow">How to call oracle pl sql function from jsp</a></li>
+    <li><a href="http://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012" rel="nofollow">PL/SQL Optimization and Tuning</a></li>
 </ul>
 
 
