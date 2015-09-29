@@ -25,7 +25,7 @@ permalink: /sitemap/
 <ul>
     <li><a href="http://oracledba.net/database/installation/single-instance/simple/windows/2008/oracle/12.1/">Oracle DataBase 12C Installation on Windows 2008 Server</a></li>
     <li><a href="http://oracledba.net/database/installation/single-instance/simple/linux/6.7/oracle/12.1/">Oracle DataBase 12C Installation on Oracle Linux 6.X</a></li>
-    <li><a href="http://oracledba.net/client/installation/windows/7/oracle/12.1/"Oracle Client 12C (32 bit) Installation on Windows 7 (64 bit)</a> (Client needs for connection to remote host with Oracle DataBase by SQLPLUS, PL/SQL developer, TOAD, etc)</li>
+    <li><a href="http://oracledba.net/client/installation/windows/7/oracle/12.1/">Oracle Client 12C (32 bit) Installation on Windows 7 (64 bit)</a> (Client needs for connection to remote host with Oracle DataBase by SQLPLUS, PL/SQL developer, TOAD, etc)</li>
 </ul>
 
 
