@@ -54,14 +54,17 @@ permalink: /
 
 <br/><br/><br/>
 
+<h1>If you looking for Oracle ADF Developers for project</h1>
+
+
   Now We are working on Oracle ADF Project (SQL, PL/SQL, Java, JSF, JavaScript).
 
 
-  <br/><br/>
+  <br/>
 
   And looking job as software developers team. If you are will looking for job oracle adf developers, please send email to us.
 
-  <br/><br/>
+  <br/>
 
   For Examples, Oracle ADF applications can be like this:
 
