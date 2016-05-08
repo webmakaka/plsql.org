@@ -47,46 +47,42 @@ permalink: /
 
     </div>
 
-
-    <br/>
-    <br/>
-
-    <br/><br/>
-
-      Now We are working on Oracle ADF Project (SQL, PL/SQL, Java, JSF, JavaScript).
-
-
-      <br/><br/>
-
-      And looking job as software developers team. If you are will looking for job oracle adf developers, please send email to us.
-
-      <br/><br/>
-
-      For Examples, Oracle ADF applications can be like this:
-
-      <br/><br/>
-
-      <div align="center">
-
-          <iframe width="640" height="480" src="https://www.youtube.com/embed/79QQbQ-PDkM" frameborder="0" allowfullscreen></iframe>
-
-          <br/><br/>
-
-          <iframe width="640" height="480" src="https://www.youtube.com/embed/JFdW4_nne0A" frameborder="0" allowfullscreen></iframe>
-
-      </div>
-
-
-      <br/><br/>
-
-      More information about Oracle ADF Development, you can find on our site for development
-      <a href="http://oracle-adf.com">Oracle ADF</a> application.
-
-
-
-
   </div>
 </div>
+
+
+
+<br/><br/><br/>
+
+  Now We are working on Oracle ADF Project (SQL, PL/SQL, Java, JSF, JavaScript).
+
+
+  <br/><br/>
+
+  And looking job as software developers team. If you are will looking for job oracle adf developers, please send email to us.
+
+  <br/><br/>
+
+  For Examples, Oracle ADF applications can be like this:
+
+  <br/><br/>
+
+  <div align="center">
+
+      <iframe width="640" height="480" src="https://www.youtube.com/embed/79QQbQ-PDkM" frameborder="0" allowfullscreen></iframe>
+
+      <br/><br/>
+
+      <iframe width="640" height="480" src="https://www.youtube.com/embed/JFdW4_nne0A" frameborder="0" allowfullscreen></iframe>
+
+  </div>
+
+
+  <br/><br/>
+
+  More information about Oracle ADF Development, you can find on our site for development
+  <a href="http://oracle-adf.com">Oracle ADF</a> application.
+
 
 
 <br/>
