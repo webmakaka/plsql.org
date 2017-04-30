@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Oracle Developers (for HR)
-permalink: /oracle-developers/
+permalink: /oracle-developers-profiles/
 ---
 
 
