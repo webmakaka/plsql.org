@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Oracle MOOC : SQL Fundamentals (2018) : Lesson 4: DML, DDL, User Access and Data Dictionary Views
+title:  Oracle MOOC SQL Fundamentals (2018) Lesson 4 DML, DDL, User Access and Data Dictionary Views
 permalink: /video-courses/2018/sql-fundamentals/week-4/
 ---
 

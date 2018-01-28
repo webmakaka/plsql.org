@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Oracle MOOC : SQL Fundamentals (2018) : Lesson 3: Group Functions, Joins and Subqueries
+title:  Oracle MOOC SQL Fundamentals (2018) Lesson 3 Group Functions, Joins and Subqueries
 permalink: /video-courses/2018/sql-fundamentals/week-3/
 ---
 

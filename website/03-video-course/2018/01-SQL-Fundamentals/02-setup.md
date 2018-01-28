@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Oracle MOOC: SQL Fundamentals (2018)
+title:  Oracle MOOC SQL Fundamentals (2018)
 permalink: /video-courses/2018/sql-fundamentals/setup/
 ---
 

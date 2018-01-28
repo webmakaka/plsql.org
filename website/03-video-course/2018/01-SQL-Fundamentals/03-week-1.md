@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Oracle MOOC : SQL Fundamentals (2018) : Lesson 1: Introducing Oracle SQL
+title:  Oracle MOOC SQL Fundamentals (2018) Lesson 1 Introducing Oracle SQL
 permalink: /video-courses/2018/sql-fundamentals/week-1/
 ---
 
