@@ -6,7 +6,7 @@ permalink: /video-courses/
 
 <br/>
 
-### Video Courses
+# Video Courses for PL/SQL Developer
 
 You can buy it or try to find in the internet.
 
