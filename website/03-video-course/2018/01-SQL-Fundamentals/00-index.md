@@ -8,6 +8,12 @@ permalink: /video-courses/2018/sql-fundamentals/
 
 # Oracle MOOC: SQL Fundamentals (2018) : Welcome
 
+
+<br/>
+
+### You can check, may be access to the materials still available on <a href="https://apexapps.oracle.com/pls/apex/f?p=44785:147:101628603859504::NO:::" rel="nofollow">official oracle website</a>.
+
+
 <br/>
 
 <div align="center">
