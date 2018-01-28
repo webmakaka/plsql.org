@@ -34,7 +34,7 @@ Enjoy!
 **3-1: Getting Started**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/_VBY_3LsM-8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/_VBY_3LsM-8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -43,7 +43,7 @@ Enjoy!
 **3-2: Executing Group Functions**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/chdEXgc3-Ik" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/chdEXgc3-Ik" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -52,7 +52,7 @@ Enjoy!
 **3-3: Retrieving Data from Multiple Tables - I**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VXouYGkaPoE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/VXouYGkaPoE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -62,7 +62,7 @@ Enjoy!
 **3-4: Retrieving Data from Multiple Tables - II**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/2PJDOXnTyeY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/2PJDOXnTyeY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -71,7 +71,7 @@ Enjoy!
 **3-5: Nesting Queries**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/bc9-LPnQR5M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/bc9-LPnQR5M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -80,7 +80,7 @@ Enjoy!
 **3-6: Working with Advanced Subqueries**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/m25sAeyzvhk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/m25sAeyzvhk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 

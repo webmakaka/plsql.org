@@ -16,7 +16,3 @@ By the end of this course, you will be able to retrieve data, create reports, ru
 We are excited you are interested in this course.
 
 Happy Learning!
-
- 
-
-The Oracle MOOC Team

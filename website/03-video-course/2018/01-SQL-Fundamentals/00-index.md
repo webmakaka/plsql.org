@@ -22,6 +22,8 @@ The Oracle MOOC Team
 
 
 <ul>
+    <li><a href="/video-courses/2018/sql-fundamentals/welcome/"Welcome</a></li>
+    <li><a href="/video-courses/2018/sql-fundamentals/setup/">Setup</a></li>
     <li><a href="/video-courses/2018/sql-fundamentals/week-1/">Week 1</a></li>
     <li><a href="/video-courses/2018/sql-fundamentals/week-2/">Week 2</a></li>
     <li><a href="/video-courses/2018/sql-fundamentals/week-3/">Week 3</a></li>

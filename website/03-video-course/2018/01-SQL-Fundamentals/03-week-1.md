@@ -37,7 +37,7 @@ Enjoy!
 **1-1: Getting Started**
 
 <div align="center">
-    <iframe width="800" height="600" src="https://www.youtube.com/embed/cTUuSZvGkVA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/cTUuSZvGkVA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -46,7 +46,7 @@ Enjoy!
 **1-2: Introducing Oracle Cloud**
 
 <div align="center">
-    <iframe width="800" height="600" src="https://www.youtube.com/embed/iVHCJgMcl7Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/iVHCJgMcl7Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -57,7 +57,7 @@ Enjoy!
 **1-3: Reviewing Relational Database**
 
 <div align="center">
-    <iframe width="800" height="600" src="https://www.youtube.com/embed/2lz0kkZssvA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/2lz0kkZssvA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -66,7 +66,7 @@ Enjoy!
 **1-4: Understanding Data Storage Terminology**
 
 <div align="center">
-    <iframe width="800" height="600" src="https://www.youtube.com/embed/DDu1oN1W0s4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/DDu1oN1W0s4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -74,10 +74,10 @@ Enjoy!
 **1-5: Introducing Oracle SQL**
 
 <div align="center">
-    <iframe width="800" height="600" src="https://www.youtube.com/embed/J9H-uVNP9eA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/J9H-uVNP9eA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
 <br/>
 
-**<a href="//files.plsql.ru/video-course/2018/01-SQL-Fundamentals/GettingStarted_SQL.pdf">Setup</a>**
+**<a href="//files.plsql.ru/video-course/2018/01-SQL-Fundamentals/GettingStarted_SQL.pdf">Homework 1 (Setup)</a>**

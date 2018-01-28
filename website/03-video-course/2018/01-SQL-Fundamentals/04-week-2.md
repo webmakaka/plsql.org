@@ -38,7 +38,7 @@ Enjoy!
 **2-1: Getting Started**
 
 <div align="center">
-    <iframe width="800" height="600" src="https://www.youtube.com/embed/i45vnFbG66I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/i45vnFbG66I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -47,7 +47,7 @@ Enjoy!
 **2-2: Retrieving Data**
 
 <div align="center">
-    <iframe width="800" height="600" src="https://www.youtube.com/embed/Uh-7-wd_QW4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/Uh-7-wd_QW4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -56,7 +56,7 @@ Enjoy!
 **2-3: Restricting Data**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/oAta028LpzI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/oAta028LpzI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -65,7 +65,7 @@ Enjoy!
 **2-4: Sorting Data**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5DtwUfOIlHE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/5DtwUfOIlHE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -74,7 +74,7 @@ Enjoy!
 **2-5: Computing with Single Row Functions**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/1hvq9DNILHw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/1hvq9DNILHw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -83,7 +83,7 @@ Enjoy!
 **2-6: Working with Date Functions**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/l-2aCP4iTgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/l-2aCP4iTgg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <br/>
@@ -91,7 +91,7 @@ Enjoy!
 **2-7: Understanding Conversion Functions**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EV1CS5Q0K44" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/EV1CS5Q0K44" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -100,7 +100,7 @@ Enjoy!
 **2-8: Working with Conditional Expressions**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/elLO9zpaxKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/elLO9zpaxKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 

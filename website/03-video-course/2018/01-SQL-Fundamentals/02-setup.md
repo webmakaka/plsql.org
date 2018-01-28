@@ -101,8 +101,6 @@ Ensure that you select the Save Password check-box.
 7. Once the connection is made, a SQL worksheet opens up automatically.
 
 
-
-
 <br/>
 
 ## Run the Setup Scripts to Create the Required Schema

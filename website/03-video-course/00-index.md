@@ -4,6 +4,15 @@ title:  Video Courses for PL/SQL Developer
 permalink: /video-courses/
 ---
 
+
+<br/>
+
+# Oracle MOOC: SQL Fundamentals (2018)
+
+<a href="/video-courses/2018/sql-fundamentals/">Oracle MOOC: SQL Fundamentals (2018)</a>
+
+
+
 <br/>
 
 # Video Courses for PL/SQL Developer

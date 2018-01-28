@@ -39,7 +39,7 @@ Good luck!
 **4-1: Getting Started**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/e4gbywoTy14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/e4gbywoTy14" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -48,7 +48,7 @@ Good luck!
 **4-2: Inserting Data**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/1t1ZQ6RDklQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/1t1ZQ6RDklQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -57,7 +57,7 @@ Good luck!
 **4-3: Modifying and Deleting Data**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/l-bwlTlCjJQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/l-bwlTlCjJQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -66,7 +66,7 @@ Good luck!
 **4-4: Creating Tables**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hALuwCmAAGc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/hALuwCmAAGc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -75,7 +75,7 @@ Good luck!
 **4-5: Defining Constraints**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZFH1zk0RXgc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/ZFH1zk0RXgc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -84,7 +84,7 @@ Good luck!
 **4-6: Modifying Data Structures**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Qu5_GWcRB_o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/Qu5_GWcRB_o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -93,7 +93,7 @@ Good luck!
 **4-7: Handling Transactions**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/o1p49uWNZmw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/o1p49uWNZmw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -102,7 +102,7 @@ Good luck!
 **4-8: Controlling User Access**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HF08Mggdh5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/HF08Mggdh5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -111,7 +111,7 @@ Good luck!
 **4-9: Introducing Data Dictionary Views**
 
 <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EfT6NEj9n9U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/EfT6NEj9n9U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
