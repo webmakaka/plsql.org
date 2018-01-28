@@ -8,6 +8,13 @@ permalink: /video-courses/2018/sql-fundamentals/
 
 # Oracle MOOC: SQL Fundamentals (2018) : Welcome
 
+<br/>
+
+<div align="center">
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/XylphNs086k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+<br/>
 
 Welcome to SQL Fundamentals from Oracle, part of the massive open online course (MOOC) series.  In this course, you will be introduced to Oracle Database 12c, Oracle SQL Developer, relational database concepts and Structured Query Language (SQL).  You will interact with a relational database and practice manipulating data. 
 
@@ -22,7 +29,7 @@ The Oracle MOOC Team
 
 
 <ul>
-    <li><a href="/video-courses/2018/sql-fundamentals/welcome/"Welcome</a></li>
+    <li><a href="/video-courses/2018/sql-fundamentals/welcome/">Welcome</a></li>
     <li><a href="/video-courses/2018/sql-fundamentals/setup/">Setup</a></li>
     <li><a href="/video-courses/2018/sql-fundamentals/week-1/">Week 1</a></li>
     <li><a href="/video-courses/2018/sql-fundamentals/week-2/">Week 2</a></li>

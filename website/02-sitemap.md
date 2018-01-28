@@ -14,7 +14,7 @@ permalink: /sitemap/
 <ul>
     <li><a href="/library/">Library</a></li>
     <li><a href="/webinars/">Webinars for study PL/SQL</a></li>
-    <li><a href="/video-courses/">Video Courses for study PL/SQL</a></li>
+    <li><a href="/video-courses/">Video Courses</a></li>
     <li><a href="/software/">Software for PL/SQL Development</a></li>
 </ul>
 

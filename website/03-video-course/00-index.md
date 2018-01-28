@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Video Courses for PL/SQL Developer
+title:  Video Courses
 permalink: /video-courses/
 ---
 
