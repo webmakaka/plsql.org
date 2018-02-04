@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Oracle MOOC SQL Fundamentals (2018)
-permalink: /video-courses/2018/sql-fundamentals/setup/
+permalink: /video-courses/2018/plsql-fundamentals/setup/
 ---
 
 <br/>
@@ -21,7 +21,7 @@ The following is a setup checklist for the SQL Fundamentals MOOC:
 
 Click each sub-page in the left navigator and perform the steps outlined on those pages.
 
-Alternatively, download the <a href="//files.plsql.ru/video-course/2018/01-SQL-Fundamentals/GettingStarted_SQL.pdf">Getting Started (PDF)</a>.
+Alternatively, download the <a href="//files.plsql.ru/video-course/2018/02-PLSQL-Fundamentals/GettingStarted_PLSQL.pdf">Getting Started (PDF)</a>.
 
 Congratulations! Now you are ready to practice the code examples or homework assignments provided in this course.
 
@@ -106,23 +106,12 @@ Ensure that you select the Save Password check-box.
 ## Run the Setup Scripts to Create the Required Schema
 
 
-Once your database connection is made, follow these steps to install the schema and database objects for the course.
+All the code examples used for demonstrating PL/SQL concepts in the videos use HR (Human Resources) schema. All the homework assignments are based on the AD (Academic) schema.
 
-To install the required schema into the database:
+To install the required schemas into the database:
 
-1. Download the <a href="//files.plsql.ru/video-course/2018/01-SQL-Fundamentals/labs.zip">labs.zip</a>  file and expand it.  You will find the following folders:
-
-* setup_files: This folder contains all the script files required to setup your HR schema tables required for the demos and homework.
-
-* code_ex: This folder contains all the script files that we have used in our demos in the videos.
-
-* lab_scripts: This folder contains scripts that you will need while doing your homework.
-
-* cleanup_scripts: This folder also contains scripts that you will need while doing your homework.
-
-2. Navigate to labs/setup_files folder.
-
-3. Locate setup.sql file and run it from the SQL Developer Worksheet.
+1. Download the <a href="//files.plsql.ru/video-course/2018/02-PLSQL-Fundamentals/setup.zip">setup_files.zip</a> file into your VM, and extract the zip folder
+2. Locate setup.sql from the extracted zip files, run it from the SQL Developer worksheet
 
 
 
@@ -136,15 +125,10 @@ Alternatively, you can use any one of the below user accounts to create a new co
 
     USERNAME	PASSWORD
     ora1	ora1
-    ora21	ora21
-    ora22	ora22
-    ora23	ora23
+    ora2	ora2
+    ora3	ora3
+    ora4	ora4
  
-If you are interested to try the code examples demonstrated in the videos, use the teach_a account:
-
-    Username: teach_a
-    Password: teach_a
-
 Congratulations! You have successfully completed the setup required to practice the code examples or homework assignments created for this MOOC.
 
 
@@ -152,31 +136,33 @@ Congratulations! You have successfully completed the setup required to practice 
 
 ## Validate Setup
 
-After connecting as a user (ora1/ora21/ora22/ora23), validate the setup as follows:
 
-Verify the HR schema by executing the following queries in the SQL worksheet:
+After connecting as a user (ora1 / ora2 / ora3 / ora4), validate the setup as:
+
+1. Verify the HR schema by executing the following queries in the SQL worksheet:
 
     SELECT count(*) FROM employees;
-    
-Expected result: 20 rows
+
+Expected result: 107 rows
 
     SELECT count(*) FROM tab;
-    
-Expected result: 9 rows
+
+Expected result: 22 rows
 
     SELECT count(*) FROM departments;
 
-Expected result: 8 rows
+Expected result: 27 rows
 
+NOTE: All the videos use HR schema to demonstrate the code examples.
 
+2. Verify the AD schema by executing the following queries in the SQL worksheet:
 
-<br/>
+    SELECT count(*) FROM ad_course_details;
 
-## Demo Scripts
+Expected result: 15 rows
 
-* The scripts used in the videos are available in the labs/code_ex folder.
-* The naming convention of the script files are as follows:
+    SELECT count(*) FROM ad_departments;
 
-    code_<Lesson number>_<Part number>.sql
+Expected result: 4 rows
 
-* For example, if you want to access the code examples in Lesson 2 - Part 3 video, open the file named code_02_03.sql.
+NOTE: All the homework assignments are based on the Academic (AD) schema.

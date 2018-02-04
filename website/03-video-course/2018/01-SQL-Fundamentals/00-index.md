@@ -22,17 +22,38 @@ permalink: /video-courses/2018/sql-fundamentals/
 
 <br/>
 
-Welcome to SQL Fundamentals from Oracle, part of the massive open online course (MOOC) series.  In this course, you will be introduced to Oracle Database 12c, Oracle SQL Developer, relational database concepts and Structured Query Language (SQL).  You will interact with a relational database and practice manipulating data. 
+**Description**
 
-By the end of this course, you will be able to retrieve data, create reports, run complex queries, run data manipulation language (DML), manage various user access levels and use Data Dictionary Views.
+In this course you are introduced to relational database concepts and SQL. Structured Query Language (SQL) is used to interact with a relational database and manipulate data. You will learn to write SQL statements to build query reports and manipulate data in Oracle Database 12c.
 
-We are excited you are interested in this course.
+**You will learn how to:**
 
-Happy Learning!
+* Retrieve row and column data from tables with the SELECT statement
+* Create reports of sorted and restricted data
+* Employ SQL functions to generate and retrieve customized data
+* Run complex queries to retrieve data from multiple tables
+* Run data manipulation language (DML) statements to update data in Oracle Database
+* Manage users with different levels of access privileges
+* Use Data Dictionary Views
+
+During this free, 4-week MOOC you will watch videos, complete homework and interact with fellow students and facilitators to guide your experience in gaining an introductory understanding of SQL and Oracle Database 12c.
 
  
-The Oracle MOOC Team
+**Prerequisites**
 
+Skills:  Familiarity with basic database and programming concepts.
+
+Setup Required:
+
+* Oracle Database 12c or access to Oracle Database Cloud Service
+* Oracle SQL Developer
+ 
+**Oracle Products**
+
+* Oracle Database 12c
+* Oracle SQL Developer 
+
+<br/>
 
 <ul>
     <li><a href="/video-courses/2018/sql-fundamentals/welcome/">Welcome</a></li>
