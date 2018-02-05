@@ -10,4 +10,4 @@ permalink: /plsql-demo-scripts/
 
 Oracle Architect w/focus on PL/SQL.
 
-https://github.com/plsql/PLSQL-demo-scripts
+https://bitbucket.org/plsql/PLSQL-demo-scripts
