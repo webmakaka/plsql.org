@@ -20,7 +20,9 @@ If it will be interesting to you, join to our <a href="https://oracledba.net/cha
 
 ### Commercial / Shareware
 
-May be you a book writer and want share information about your book, you can do it for free if agree to share with us by some interesting articles. If not, you can publish information for money. I think it would be right and for companies who suggest thier clients some solutions. Software for examples. I know very good IDE for Development PL/SQL code. Or companies who have good experience with performance tuning, it can be interesting. (Unfortunately, I have weak skills about SQL performance tuning).
+May be you a book writer and want share information about your book, you can do it for free if agree to share with us some interesting articles. If not, you can publish information for money.
+
+I think it would be right and for commercial companies who suggest thier clients some solutions. Software for examples. I know very good IDE for Development PL/SQL code. Or companies who have good experience with performance tuning, it can be interesting. (Unfortunately, I have weak skills about SQL performance tuning).
 
 **Sorry for terrible my English. I studied german in the school. My native language is russian.**
 
