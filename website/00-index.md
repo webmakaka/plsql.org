@@ -4,51 +4,16 @@ title: PL/SQL
 permalink: /
 ---
 
-<div class="row-fluid">
-  <div class="span12">
+# Hi!
 
-    <h1> Hi, PL/SQL Developer!</h1>
+If you study Oracle SQL, PL/SQL and any other Oracle technologies, you can share your experience with us.  
+For this we can share link on you social network profile. I think, it can help find a better job (May be even remote).  
 
-    <div class="row-fluid">
-      <div class="span8">
+Or you can write what you are developer / consultant on your resume with proofs on this website. 
 
-      We are software developer from Russia.
+May be your experience will help to newbie. 
 
-      <br/><br/>
-
-      Our main website on russian language is <a href="http://plsql.ru/">PLSQL.RU</a>
-
-      <br/><br/>
-
-      The website administrator want to find interesting examples on PL/SQL and share it on this website.
-
-      <br/><br/>
-
-      This website use Jekyll technologies. Than mean what all source codes are stored in repository on github.
-
-      <br/><br/>
-
-      You could download and run source codes on you local mashine. (If it would be interesting to someone, i will write instruction.)
-
-      <br/><br/>
-
-      I hope you will agree to share your knowledge or materials on this website would be helpful for you.
-
-      </div>
-
-      <div class="span4">
-
-      <a class="twitter-timeline" href="https://twitter.com/hashtag/plsql" data-widget-id="644418846363910144">#plsql Tweets</a>
-      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
-      </div>
-
-
-
-    </div>
-
-  </div>
-</div>
+If it will be interesting to you , join to our <a href="https://oracledba.net/chat/">chat</a>. You can ask something interesting for you or we can speak not only about Oracle.
 
 
 <br/>
@@ -61,66 +26,5 @@ permalink: /
 <div align="center">
 
     <a href="/video-courses/2018/"><img src="//files.plsql.ru/mooc-sql-plsql-fundamentals.png" alt="Oracle SQL and PL/SQL video courses" border="0" /></a>
-
-</div>
-
-<br/>
-
-
-<br/><br/><br/>
-
-<h1>If you looking for Oracle ADF Developers for project</h1>
-
-
-  Now We are working on Oracle ADF Project (SQL, PL/SQL, Java, JSF, JavaScript).
-
-
-  <br/>
-
-  And looking job as software developers team. If you are will looking for job oracle adf developers, please send email to us.
-
-  <br/>
-
-  For Examples, Oracle ADF applications can be like this:
-
-  <br/><br/>
-
-  <div align="center">
-
-      <iframe width="640" height="480" src="https://www.youtube.com/embed/79QQbQ-PDkM" frameborder="0" allowfullscreen></iframe>
-
-      <br/><br/>
-
-      <iframe width="640" height="480" src="https://www.youtube.com/embed/JFdW4_nne0A" frameborder="0" allowfullscreen></iframe>
-
-  </div>
-
-
-  <br/><br/>
-
-  More information about Oracle ADF Development, you can find on our site for development
-  <a href="http://oracle-adf.com">Oracle ADF</a> application.
-
-
-
-<br/>
-<br/>
-
-
-<div align="right">
-Feedback: <br/><img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley" border="0"/>
-</div>
-
-
-
-
-<div align="center">
-
-
-<br/>
-<br/>
-
-Sorry for my terrible english.<br/>
-My native language is C++
 
 </div>
