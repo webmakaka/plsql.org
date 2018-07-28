@@ -16,7 +16,13 @@ May be your experience will help to newbie. Or more experienced developer will h
 
 If it will be interesting to you, join to our <a href="https://oracledba.net/chat/">chat</a>. You can ask something interesting for you or we can speak not only about Oracle.
 
-Sorry for my English. I studied german in the school.
+<br/>
+
+### Commercial / Shareware
+
+May be you a book writer and want share information about your book, you can do it for free if agree to share with us by some interesting articles. If not, you can publish information for money. I think it would be right and for companies who suggest thier clients some solutions. Software for examples. I know very good IDE for Development PL/SQL code. Or companies who have good experience with performance tuning, it can be interesting. (Unfortunately, I have weak skills about SQL performance tuning).
+
+**Sorry for terrible my English. I studied german in the school. My native language is russian.**
 
 <br/>
 
