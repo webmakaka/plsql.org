@@ -2,9 +2,9 @@
 title: plsql.org
 
 description: > # this means to ignore newlines until "baseurl:"
-  Website for people who studying PL/SQL language for Oracle DataBase
+  Website about Oracle DataBase, SQL and PL/SQL Development
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://plsql.org" # the base hostname & protocol for your site
+url: "https://plsql.org" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

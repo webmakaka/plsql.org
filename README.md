@@ -1,8 +1,6 @@
-# [plsql.org](http://plsql.org) SOURCE CODES
+# [plsql.org](https://plsql.org) SOURCE CODES
 
 [![Build Status](https://travis-ci.org/plsql/plsql.org.svg?branch=gh-pages)](https://travis-ci.org/plsql/plsql.org)
-
-
 
 Инсталлируете docker, далее:
 
