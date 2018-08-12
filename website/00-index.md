@@ -44,4 +44,8 @@ I think it would be right and for commercial companies who suggest thier clients
 
 <br/>
 
-If it will be interesting, I can share.
+https://labs.jsdev.org/backend/nodejs/2018/introduction-to-nodejs-using-oracle-cloud/
+
+<br/>
+
+https://github.com/marley-nodejs/oracle-mooc-introduction-to-nodejs-using-oracle-cloud
