@@ -62,10 +62,6 @@ https://www.youtube.com/watch?v=YNAdK3jqmEg
 
 ### I also have materials about Node.js and Oracle MOOC
 
-<br/>
-
 <a href="https://labs.jsdev.org/backend/nodejs/2018/introduction-to-nodejs-using-oracle-cloud/" rel="nofollow">Videos</a>
-
-<br/>
 
 <a href="https://github.com/marley-nodejs/oracle-mooc-introduction-to-nodejs-using-oracle-cloud" rel="nofollow">src</a>
