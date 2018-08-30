@@ -40,12 +40,32 @@ I think it would be right and for commercial companies who suggest thier clients
 
 <br/>
 
+### Practically Perfect PL/SQL with Steven Feuerstein
+
+Get Started with Table Functions Module 1: Overview and Fundamentals
+
+https://www.youtube.com/watch?v=YixSfXZ8wPI
+
+Getting Started with PL/SQL Table Functions 2. Returning Multiple Columns
+
+https://www.youtube.com/watch?v=zV-FaHcWdJ0
+
+Getting Started with PL/SQL Table Functions 3: Streaming Table Functions
+
+https://www.youtube.com/watch?v=TAXOkYto6CE
+
+Getting Started with PL/SQL Table Functions: Pipelined Table Functions
+
+https://www.youtube.com/watch?v=YNAdK3jqmEg
+
+<br/>
+
 ### I also have materials about Node.js and Oracle MOOC
 
 <br/>
 
-https://labs.jsdev.org/backend/nodejs/2018/introduction-to-nodejs-using-oracle-cloud/
+<a href="https://labs.jsdev.org/backend/nodejs/2018/introduction-to-nodejs-using-oracle-cloud/" rel="nofollow">Videos</a>
 
 <br/>
 
-https://github.com/marley-nodejs/oracle-mooc-introduction-to-nodejs-using-oracle-cloud
+<a href="https://github.com/marley-nodejs/oracle-mooc-introduction-to-nodejs-using-oracle-cloud" rel="nofollow">src</a>
