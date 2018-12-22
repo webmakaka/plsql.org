@@ -1,0 +1,21 @@
+[Unit]
+Description=plsql.org
+
+Requires=docker.service
+After=docker.service
+
+[Service]
+
+Restart=always
+TimeoutStartSec=0
+ExecStartPre=-/usr/bin/docker kill plsql.org
+ExecStartPre=-/usr/bin/docker rm plsql.org
+ExecStartPre=-/usr/bin/docker pull marley/plsql.org:latest
+ExecStart=/bin/sh -c '/usr/bin/docker run --name plsql.org   \
+ -p 4012:80                        \
+ marley/plsql.org'
+ExecStop=-/usr/bin/docker kill plsql.org
+ExecStop=-/usr/bin/docker rm plsql.org
+
+[Install]
+WantedBy=multi-user.target
