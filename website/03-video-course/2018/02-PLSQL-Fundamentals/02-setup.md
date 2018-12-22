@@ -110,7 +110,7 @@ All the code examples used for demonstrating PL/SQL concepts in the videos use H
 
 To install the required schemas into the database:
 
-1. Download the <a href="//files.plsql.ru/video-course/2018/02-PLSQL-Fundamentals/setup.zip">setup_files.zip</a> file into your VM, and extract the zip folder
+1. Download the <a href="//files.plsql.ru/video-course/2018/02-PLSQL-Fundamentals/setup_files.zip">setup_files.zip</a> file into your VM, and extract the zip folder
 2. Locate setup.sql from the extracted zip files, run it from the SQL Developer worksheet
 
 

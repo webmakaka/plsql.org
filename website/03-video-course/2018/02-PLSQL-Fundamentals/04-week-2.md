@@ -94,4 +94,4 @@ Enjoy!
 
 **<a href="//files.plsql.ru/video-course/2018/02-PLSQL-Fundamentals/Homework_Les02_v2.pdf">Homework 2</a>**
 
-**<a href="//files.plsql.ru/video-course/2018/02-PLSQL-Fundamentals/week2_code_examples .zip">Code Examples</a>**
+**<a href="//files.plsql.ru/video-course/2018/02-PLSQL-Fundamentals/week2_code_examples.zip">Code Examples</a>**

@@ -43,7 +43,7 @@ permalink: /sitemap/
 ### Oracle Magazine (with PL/SQL Samples)
 
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The new issue of Oracle Magazine is now available! Get your FREE subscription here: <a href="http://t.co/RCiPqH6YHD">http://t.co/RCiPqH6YHD</a> <a href="http://t.co/cK5A3KsQS5">pic.twitter.com/cK5A3KsQS5</a></p>&mdash; Oracle Magazine (@oraclemagazine) <a href="https://twitter.com/oraclemagazine/status/627890024822894592">August 2, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The new issue of Oracle Magazine is now available! Get your FREE subscription here: <a href="http://t.co/cK5A3KsQS5">pic.twitter.com/cK5A3KsQS5</a></p>&mdash; Oracle Magazine (@oraclemagazine) <a href="https://twitter.com/oraclemagazine/status/627890024822894592">August 2, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
