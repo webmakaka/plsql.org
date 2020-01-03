@@ -24,7 +24,19 @@ May be you a book writer and want share information about your book, you can do 
 
 I think it would be right and for commercial companies who suggest thier clients some solutions. Software for examples. I know very good IDE for Development PL/SQL code. Or companies who have good experience with performance tuning, it can be interesting. (Unfortunately, I have weak skills about SQL performance tuning).
 
-**Sorry for terrible my English. I studied german in the school. My native language is russian.**
+
+<br/>
+
+### Oracle SQL All-in-One Quick Start Tutorial Series (4 HOURS!)
+
+<br/>
+
+<div align="center">
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/1o0c-zD3iFU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
 
 <br/>
 
