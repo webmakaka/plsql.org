@@ -4,7 +4,9 @@ title: PL/SQL
 permalink: /
 ---
 
-# Hi!
+# PL/SQL.org
+
+Hi!
 
 If you study Oracle SQL, PL/SQL and any other Oracle technologies, you can share your experience with us.
 
@@ -24,6 +26,28 @@ May be you a book writer and want share information about your book, you can do 
 
 I think it would be right and for commercial companies who suggest thier clients some solutions. Software for examples. I know very good IDE for Development PL/SQL code. Or companies who have good experience with performance tuning, it can be interesting. (Unfortunately, I have weak skills about SQL performance tuning).
 
+<br/>
+
+### Notes for Professionals (Free Materials)
+
+<table>
+
+<tr>
+<td>
+
+ <a href="https://goalkicker.com/OracleDatabaseBook/">
+    <img src="https://goalkicker.com/OracleDatabaseBook/OracleDatabaseGrow.png" border="0" alt="Single"></a>
+
+</td>
+<td>
+
+  <a href="https://goalkicker.com/SQLBook/">
+    <img src="https://goalkicker.com/SQLBook/SQLGrow.png" border="0" alt="Single"></a>
+
+</td>
+</tr>
+
+</table>
 
 <br/>
 
@@ -37,7 +61,6 @@ I think it would be right and for commercial companies who suggest thier clients
 
 </div>
 
-
 <br/>
 
 ### Free online video courses from Oracle about SQL and PL/SQL on english
@@ -45,30 +68,8 @@ I think it would be right and for commercial companies who suggest thier clients
 <br/>
 
 <div align="center">
-
     <a href="/video-courses/2018/"><img src="//plsql.ru/img/mooc-sql-plsql-fundamentals.png" alt="Oracle SQL and PL/SQL video courses" border="0" /></a>
-
 </div>
-
-<br/>
-
-### Practically Perfect PL/SQL with Steven Feuerstein
-
-Get Started with Table Functions Module 1: Overview and Fundamentals
-
-https://www.youtube.com/watch?v=YixSfXZ8wPI
-
-Getting Started with PL/SQL Table Functions 2. Returning Multiple Columns
-
-https://www.youtube.com/watch?v=zV-FaHcWdJ0
-
-Getting Started with PL/SQL Table Functions 3: Streaming Table Functions
-
-https://www.youtube.com/watch?v=TAXOkYto6CE
-
-Getting Started with PL/SQL Table Functions: Pipelined Table Functions
-
-https://www.youtube.com/watch?v=YNAdK3jqmEg
 
 <br/>
 

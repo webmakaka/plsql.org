@@ -1,8 +1,8 @@
 # Site settings
 title: plsql.org
 
-description: > # this means to ignore newlines until "baseurl:"
-  Website about Oracle DataBase, SQL and PL/SQL Development
+description: Website about SQL and PL/SQL Development for Oracle Databases
+keywords: oracle, database, SQL, PL/SQL, Development
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://plsql.org" # the base hostname & protocol for your site
 

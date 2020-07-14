@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Site Map
+description: Site Map
+keywords: Site Map
 permalink: /sitemap/
 ---
 
-## Site Map
-
+# Site Map
 
 <br/>
 
@@ -18,7 +19,6 @@ permalink: /sitemap/
     <li><a href="/software/">Software for PL/SQL Development</a></li>
 </ul>
 
-
 <br/>
 
 ### Oracle DataBase and Client Installation
@@ -29,7 +29,6 @@ permalink: /sitemap/
     <li><a href="http://oracledba.net/client/installation/windows/7/oracle/12.1/">Oracle Client 12C (32 bit) Installation on Windows 7 (64 bit)</a> (Client needs for connection to remote host with Oracle DataBase by SQLPLUS, PL/SQL developer, TOAD, etc)</li>
 </ul>
 
-
 <br/>
 
 ### Oracle PL/SQL Debugging
@@ -37,16 +36,31 @@ permalink: /sitemap/
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">#363 <a href="https://twitter.com/hashtag/plsql?src=hash">#plsql</a> Don&#39;t write your own error logging utility. Use Logger! <a href="https://t.co/fDjIGQnwCq">https://t.co/fDjIGQnwCq</a></p>&mdash; Steven Feuerstein (@sfonplsql) <a href="https://twitter.com/sfonplsql/status/648520588768714752">September 28, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
 <br/>
 
 ### Oracle Magazine (with PL/SQL Samples)
 
-
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">The new issue of Oracle Magazine is now available! Get your FREE subscription here: <a href="http://t.co/cK5A3KsQS5">pic.twitter.com/cK5A3KsQS5</a></p>&mdash; Oracle Magazine (@oraclemagazine) <a href="https://twitter.com/oraclemagazine/status/627890024822894592">August 2, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 
+### Practically Perfect PL/SQL with Steven Feuerstein
+
+**Get Started with Table Functions Module 1: Overview and Fundamentals**  
+https://www.youtube.com/watch?v=YixSfXZ8wPI
+
+**Getting Started with PL/SQL Table Functions 2. Returning Multiple Columns**  
+https://www.youtube.com/watch?v=zV-FaHcWdJ0
+
+**Getting Started with PL/SQL Table Functions 3: Streaming Table Functions**  
+https://www.youtube.com/watch?v=TAXOkYto6CE
+
+**Getting Started with PL/SQL Table Functions: Pipelined Table Functions**  
+https://www.youtube.com/watch?v=YNAdK3jqmEg
+
+**Introduction to Dynamic SQL in PL/SQL**  
+https://www.youtube.com/watch?v=ZkKMIhEr1kQ&list=PL0mkplxCP4yh-1RFq6t4I3acKDQ7yUfsb
 
 <br/>
 
@@ -59,12 +73,9 @@ permalink: /sitemap/
     <li><a href="http://docs.oracle.com/database/121/LNPLS/tuning.htm#LNPLS012" rel="nofollow">PL/SQL Optimization and Tuning</a></li>
 </ul>
 
-
-
 <br/>
 
 ### PL/SQL BASICS
-
 
 <ul>
     <li><a href="/basics/procedures/">Procedures</a></li>
@@ -72,12 +83,9 @@ permalink: /sitemap/
     <li><a href="/basics/packages/">Packages</a></li>
 </ul>
 
-
-
 <br/>
 
 ### Some Articles
-
 
 <ul>
     <li><a href="https://community.oracle.com/docs/DOC-915523" rel="nofollow">PL/SQL 101 : Cursors and SQL Projection</a></li>
