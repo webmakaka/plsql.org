@@ -30,6 +30,8 @@ I think it would be right and for commercial companies who suggest thier clients
 
 ### Notes for Professionals (Free Materials)
 
+<div align="center">
+
 <table>
 
 <tr>
@@ -48,6 +50,8 @@ I think it would be right and for commercial companies who suggest thier clients
 </tr>
 
 </table>
+
+</div>
 
 <br/>
 
