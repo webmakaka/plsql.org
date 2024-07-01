@@ -52,7 +52,7 @@ Enjoy!
 **3-2: Understanding PL/SQL Records**
 
 <div align="center">    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/kZKA9hECKSc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/kZKA9hECKSc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -61,7 +61,7 @@ Enjoy!
 **3-3: Understanding PL/SQL Collections**
 
 <div align="center">    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/6zw1QdPdmdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/6zw1QdPdmdE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -70,7 +70,7 @@ Enjoy!
 **3-4: Working With Cursors**
 
 <div align="center">    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/TDx3M3F8HzE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/TDx3M3F8HzE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
@@ -79,7 +79,7 @@ Enjoy!
 **3-5: Exploring Explicit Cursors Further**
 
 <div align="center">    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/HoAkaojknDw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/HoAkaojknDw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
