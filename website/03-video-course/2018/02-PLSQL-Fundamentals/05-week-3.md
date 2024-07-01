@@ -44,9 +44,8 @@ Enjoy!
 **3-1: Getting Started With Lesson 03**
 
 <div align="center">    
-    <iframe width="853" height="480"" src="https://www.youtube.com/embed/8pZqylHukXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="853" height="480" src="https://www.youtube.com/embed/8pZqylHukXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
 
 <br/>
 
